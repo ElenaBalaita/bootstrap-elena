@@ -45,4 +45,7 @@ button{
 	background: #D5B6F0;
 	margin: 20px;
 }
-
+.container-contact{
+	border-radius: 5px;
+	padding: 20px;
+}
