@@ -35,3 +35,10 @@ nav{
 header{
 	color: #9AD1CC;
 }
+.card{
+	background: #D5B6F0;
+}
+.card-deck{
+	background: dimgrey;
+}
+
