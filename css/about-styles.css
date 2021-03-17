@@ -43,6 +43,8 @@ header{
 }
 .card-deck{
 	background: #9AD1CC;
+	margin-left: auto;
+	margin-right: auto;
 }
 .card-text{	
 	font-family: 'Crimson Text', serif;
