@@ -4,6 +4,9 @@
    green: #9AD1CC
    grey: dimgrey
 */
+h1 h2 h3 h4{
+	font-family: 'Crimson Text', serif;
+}
 header nav{
 	display: flex;
 	justify-content: flex-end;
@@ -48,4 +51,21 @@ button{
 .container-contact{
 	border-radius: 5px;
 	padding: 20px;
+}
+.footer {
+  background: #9AD1CC;
+  padding: 10px 0;
+}
+.footer a {
+  color: dimgrey;
+  font-size: 20px;
+  padding: 10px;
+  border-right: 1px solid dimgrey;
+  transition: all .5s ease;
+}
+.footer a:first-child {
+  border-left: 1px solid dimgrey;
+}
+.footer a:hover {
+  color: white;
 }
