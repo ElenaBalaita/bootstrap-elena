@@ -83,7 +83,7 @@ button{
 .card-text{	
 	font-family: 'Crimson Text', serif;
 }
-.social-icons li{
+.social-icons a{
 	display: inline-block;
 	list-style-type: none;
 	-webkit-user-select: none;
