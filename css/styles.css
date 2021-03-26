@@ -80,3 +80,17 @@ button{
 .card-text{	
 	font-family: 'Crimson Text', serif;
 }
+.social-icons li img{
+	width: 40px;
+	height: 40px;
+	margin-right: 20px;
+}
+.social-icons{
+	text-align: center;
+}
+.social-icons li a{
+	border-bottom: none;
+}
+body{
+	color: #D5B6F0;
+}
